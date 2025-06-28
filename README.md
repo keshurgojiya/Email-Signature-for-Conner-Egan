@@ -2,7 +2,7 @@
 
 🔗 **[Live Preview](https://keshurgojiya.github.io/Email-Signature-for-Conner-Egan/)**
 
-This project contains a responsive and professional HTML email signature for Bryan Chung, designed to display perfectly across major email clients.
+This project contains a responsive and professional HTML email signature for Conner Egan, designed to display perfectly across major email clients.
 
 ---
 
