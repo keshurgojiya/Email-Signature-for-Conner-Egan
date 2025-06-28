@@ -1,4 +1,4 @@
-# ✉️ Email Signature for Bryan Chung
+# ✉️ Email Signature for Conner-Egan
 
 🔗 **[Live Preview](https://keshurgojiya.github.io/Email-Signature-for-Conner-Egan/)**
 
